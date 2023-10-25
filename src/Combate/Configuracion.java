@@ -39,7 +39,8 @@ private static final Random random = new Random();
   /*
    * BOSS
    */
-        public static final String[] PROFESORES_NOMBRE_BOSS = {"paco","guilla","lidia","david","jesus"};
+        public final String[] PROFESORES_NOMBRE_BOSS = {"paco","guilla","lidia","david","jesus"};
+        public final String[] CODIGO_NOMBRE_BOSS = {"carpeta de noelia","fotografia","diario","estuche","pastillas"};
 
     
     /*
